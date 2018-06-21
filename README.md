@@ -2,7 +2,7 @@
 
 Sitio web que acompaña al artículo de Apple Coding sobre MapKit JS
 
-![Webshot]()
+![Webshot](https://github.com/fitomad/AppleCoding-MapKitJS/blob/master/Webshots/portada.png)
 
 ## Configuración
 
