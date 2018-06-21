@@ -1,0 +1,229 @@
+[
+    {
+        "id": "1",
+        "title": "Puerta del Sol",
+        "contact": {
+            "web": "http://www.esmadrid.com/informacion-turistica/puerta-del-sol"
+        },
+        "spatial": {
+            "latitude": 40.416674000000,
+            "longitude": -3.703830000000
+        },
+        "description": "<p style=\"text-align: justify;\"><strong>C\u00e9ntrica y bulliciosa, la plaza de la Puerta del Sol es uno de los emblemas de Madrid. En su planta semicircular confluyen varias de las calles hist\u00f3ricas y m\u00e1s transitadas de la ciudad, como Mayor, Arenal, Alcal\u00e1 o Preciados, y concentra varios de los elementos m\u00e1s representativos de esta urbe. </strong></p><p style=\"text-align: justify;\">Uno de ellos, es el famoso reloj de la Casa de Correos, sede de la Comunidad de Madrid, que cada 31 de diciembre marca las doce campanadas del nuevo a\u00f1o ante una multitud que se congrega a sus pies, para tomarse las doce uvas tradicionales en una ceremonia que se retransmite por televisi\u00f3n a millones de espa\u00f1oles.</p><p style=\"text-align: justify;\">En el mismo lugar, frente a la puerta de la Casa de Correos, se encuentra la placa del Kil\u00f3metro Cero, que se\u00f1ala el origen del kilometraje de las diferentes carreteras radiales nacionales que parten de Madrid y junto a la cual tantos turistas nacionales se fotograf\u00edan cada d\u00eda. La Puerta del Sol alberga tambi\u00e9n la estatua del Oso y el Madro\u00f1o, muy querida por los madrile\u00f1os y popular punto de encuentro que representa los elementos del escudo de la ciudad.</p><p style=\"text-align: justify;\">En el lado opuesto, a la entrada de la calle Arenal, se encuentra la estatua de la Mariblanca, r\u00e9plica del original del siglo XVII que en su origen coron\u00f3 una fuente ubicada en el mismo emplazamiento y que hoy es custodiada en la Casa de la Villa. Y muy pr\u00f3xima a ella, en el centro de la plaza, se sit\u00faa la estatua ecuestre de Carlos III, rey que en el siglo XVIII moderniz\u00f3 Madrid con una serie de mejoras en las infraestructuras de la ciudad.</p>"
+    },
+    {
+        "id": "2",
+        "title": "Iglesia de San Gin&eacute;s",
+        "contact": {
+            "web": "http://www.esmadrid.com/informacion-turistica/iglesia-de-san-gines",
+            "email": "parroquiadesangines@gmail.com",
+            "phone": "(+34) 91 366 48 75 "
+        },
+        "spatial": {
+            "latitude": 40.41722499513,
+            "longitude": -3.707022070885
+        },
+        "description": "<p><strong>En la calle Arenal se encuentra la iglesia de San Gin\u00e9s, dedicada al santo franc\u00e9s San Gin\u00e9s de Arl\u00e9s. Se trata de una de las iglesias m\u00e1s antiguas de Madrid, construida en 1645 sobre los restos de lo que se cree fue una ermita moz\u00e1rabe. Realizada a partir de un proyecto de Juan Ruiz, ha sufrido diferentes restauraciones y modificaciones a lo largo de su historia.</strong></p><p>Su actual fachada principal, realizada en ladrillo y piedra en 1870, fue en su origen de estilo neoplateresco, aunque, tras ser destruida durante la Guerra Civil, sus adornos originales fueron eliminados tras la restauraci\u00f3n realizada despu\u00e9s de la contienda. Su p\u00f3rtico de arcos da paso a un interior de tres naves y capillas laterales donde destaca la del Sant\u00edsimo Cristo.</p><p>La iglesia de San Gin\u00e9s cuenta con un rico patrimonio art\u00edstico del que destaca la obra <em>La purificaci\u00f3n del templo</em>, de El Greco. Para poder disfrutar de esta peque\u00f1a obra de arte se ha habilitado un horario en el que el cuadro permanece sin estar cubierto: martes y viernes de 18:00 a 19:00 y s\u00e1bados de 10:00 a 11:00 y de 11:30 a 12:00 h.</p><p>&nbsp;</p>"
+    },
+    {
+        "id": "3",
+        "title": "Monasterio de la Encarnaci&oacute;n",
+        "contact": {
+            "web": "http://www.esmadrid.com/informacion-turistica/monasterio-de-la-encarnacion",
+            "email": "info@patrimonionacional.es",
+            "phone": "(+34) 91 454 88 00 "
+        },
+        "spatial": {
+            "latitude": 40.420064705768,
+            "longitude": -3.711504042149
+        },
+        "description": "<p><strong>El Real Monasterio de la Encarnaci\u00f3n fue fundado en 1611 por la reina do\u00f1a Margarita, esposa de Felipe III como convento de monjas de clausura. En su interior se guarda la famosa reliquia de San Pantale\u00f3n.</strong></p><p>El edificio se debe a los arquitectos Juan G\u00f3mez de Mora y Fray Alberto de la Madre de Dios que construyeron un edificio que se ha convertido en modelo de lo que se ha dado en llamar barroco madrile\u00f1o. El convento conserva importantes conjuntos pict\u00f3ricos y escult\u00f3ricos de los siglos XVII y XVIII, con obras de Lucas Jord\u00e1n, Juan Van der Hammen, Vicente Carducho, Gregorio Fern\u00e1ndez o Pedro de Mena. Especial menci\u00f3n merece el relicario que alberga un conjunto de 700 piezas hechas en bronce, coral, marfil y maderas finas procedentes de Italia, Alemania, Espa\u00f1a y los Pa\u00edses Bajos.</p><p>La iglesia fue remozada en 1761 por Ventura Rodr\u00edguez. La Desamortizaci\u00f3n de 1836 afect\u00f3 notablemente al convento, ya que las monjas fueron exclaustradas en 1842 y se procedi\u00f3 a su demolici\u00f3n paulatina. El director de las obras de desescombro era, en 1844, el arquitecto Narciso Pascual y Colomer; de ese mismo a\u00f1o es el proyecto de reconstrucci\u00f3n del convento, sobre todo en el ala de la calle de San Quint\u00edn, que se inici\u00f3 en 1847, a\u00f1o en el que las monjas volvieron al edificio tras cinco a\u00f1os de exclaustraci\u00f3n.</p>"
+    },
+    {
+        "id": "4",
+        "title": " Teatro Real",
+        "contact": {
+            "web": "http://www.esmadrid.com/informacion-turistica/teatro-real",
+            "email": "info@teatro-real.com",
+            "phone": "(+34) 91 516 06 60"
+        },
+        "spatial": {
+            "latitude": 40.418299121798,
+            "longitude": -3.710589408875
+        },
+        "description": "<p><strong>El Teatro Real de Madrid, proyecto del arquitecto municipal Antonio L\u00f3pez Aguado bajo el reinado de Isabel I, se inaugur\u00f3 en 1850 (aunque la primera piedra se coloc\u00f3 el 23&nbsp;de abril de 1818). Situado muy cerca de Sol, el edificio fue durante 75 a\u00f1os uno de los principales teatros europeos, pero un hundimiento en 1925 provoc\u00f3 que estuviera cerrado 41 a\u00f1os. En 1966&nbsp;reabri\u00f3&nbsp;como&nbsp;auditorio y sede del Real Conservatorio Superior de M\u00fasica y Escuela de Arte Dram\u00e1tico.&nbsp;Declarado Monumento Nacional <strong>en 1977,</strong>&nbsp;no fue hasta 1997, y tras casi siete a\u00f1os de reformas, cuando&nbsp;volvi\u00f3 a ser la sede madrile\u00f1a del <em>bel canto</em>.</strong></p><p>El edificio&nbsp;es una mezcla arquitect\u00f3nica que cuenta con una caja esc\u00e9nica que es la joya del teatro con sus 1472 m&sup2;. Esta caja permite complejos cambios de decorado gracias a sus 18 plataformas articuladas que admiten m\u00faltiples combinaciones en el escenario y en el foso de la orquesta. Con un aforo que oscila entre 1748 y 1854 localidades, en funci\u00f3n de las necesidades del montaje, el teatro dispone de 28 palcos en las diferentes plantas, adem\u00e1s de ocho proscenios y del Palco Real de doble altura.</p><p>La \u00fanica planta dedicada exclusivamente al p\u00fablico es &lsquo;La Rotonda&rsquo;, que rodea por completo el edificio. En ella se ubican cuatro grandes salones decorados en diferentes tonalidades y con elementos de Patrimonio Nacional y del Museo del Prado. Asimismo, las l\u00e1mparas se fabricaron en la Real F\u00e1brica de la Granja.</p><p>El teatro organiza <a href=\"http://www.teatro-real.com/es/visitas/visitas-guiadas/\" target=\"_blank\">visitas guiadas</a>, en diferentes idiomas,&nbsp;en las que se hace un recorrido por los espacios p\u00fablicos y art\u00edsticos del Real y con el que el visitante conoce con mayor detalle c\u00f3mo se desarrollan los ensayos de los espect\u00e1culos, d\u00f3nde ensayan los m\u00fasicos antes de las funciones o qu\u00e9 se hace en los diferentes departamentos del Teatro.</p><p>Fotos 1, 4, 5, 6, 7, 8 y 9:&nbsp;&copy;Javier del Real (Teatro Real).</p>"
+    },
+    {
+        "id": "5",
+        "title": "Jardines de la Plaza de Oriente",
+        "contact": {
+            "web": "http://www.esmadrid.com/informacion-turistica/jardines-de-la-plaza-de-oriente"
+        },
+        "spatial": {
+            "latitude": 40.418177000000,
+            "longitude": -3.713170000000
+        },
+        "description": "<p><strong>Situadas frente al Palacio Real, estas 1,60 hect\u00e1reas de jard\u00edn se engloban en uno de los conjuntos m\u00e1s tur\u00edsticos de Madrid. Los jardines fueron una iniciativa de Jos\u00e9 Bonaparte, que quer\u00eda que sirvieran para resaltar el Palacio y el Teatro Real. Desde entonces han sufrido muchas e importantes reformas, la m\u00e1s completa ha sido la dirigida por Miguel de Oriol en 1997. </strong></p><p>En el centro de la plaza se encuentra la estatua ecuestre de Felipe IV, obra fundida por Pietro Tacca en 1640 seg\u00fan c\u00e1lculos de Galileo Galilei, escoltada por gran parte de la colecci\u00f3n de estatuas de reyes espa\u00f1oles que tendr\u00edan que haber coronado el Palacio Real. Los jardines est\u00e1n dise\u00f1ados en formas geom\u00e9tricas que sirven para dar aire y realce a la fachada del Palacio Real. Adem\u00e1s, se encuentran en el centro de un importante conjunto monumental del que forma parte no s\u00f3lo el Palacio, sino tambi\u00e9n el Convento de la Encarnaci\u00f3n.</p>"
+    },
+    {
+        "id": "6",
+        "title": "Palacio Real",
+        "contact": {
+            "web": "http://www.esmadrid.com/informacion-turistica/palacio-real",
+            "email": "info@patrimonionacional.es  ",
+            "phone": "(+34) 91 454 87 00"
+        },
+        "spatial": {
+            "latitude": 40.417956056591,
+            "longitude": -3.714323043823
+        },
+        "description": "<div><p><strong>Morada regia desde Carlos III hasta Alfonso XIII, el Palacio Real de Madrid nos propone un&nbsp;viaje por la Historia de Espa\u00f1a. Aunque no est\u00e1 habitado por los actuales monarcas, el recinto es la residencia oficial de los reyes. Ahora adem\u00e1s puedes visitar su fant\u00e1stica Real Cocina,&nbsp;el ejemplo m\u00e1s destacado, conservado hasta nuestros d\u00edas,&nbsp;de cocinas hist\u00f3ricas de las residencias reales europeas\u200b.</strong></p><p>Mucho antes de que Madrid fuera capital de Espa\u00f1a, el emir Mohamed I&nbsp;construy\u00f3 en&nbsp;Magerit (nombre \u00e1rabe de la ciudad)&nbsp;una&nbsp;alcazaba para defender Toledo del avance de los cristianos. Dicha edificaci\u00f3n fue utilizada de forma eventual por los reyes de Castilla hasta que en el siglo XIV se transform\u00f3 en lo que se conocer\u00e1 como <strong>Antiguo Alc\u00e1zar</strong>. Carlos I y su hijo Felipe II convirtieron la fortaleza en residencia permanente de los monarcas. Pero en el a\u00f1o 1734 un incendio arras\u00f3 el edificio y sobre sus restos <strong>Felipe V</strong> mand\u00f3 construir el palacio actual.</p><p>Aunque en primer lugar se lo encarga a <strong>Filippo Juvara</strong>, ser\u00e1 su disc\u00edpulo, <strong>Juan Bautista Sachetti</strong>, quien se ocupe de realizar los planos definitivos tras la muerte del primero. Transcurren diecisiete a\u00f1os desde que se pone la primera piedra, en 1738, hasta que se terminan las obras encargadas por Felipe V. Ser\u00e1 <strong>Carlos III</strong> -conocido con el sobrenombre de &quot;el rey alcalde&quot; por la gran cantidad de reformas e iniciativas que desarroll\u00f3 en la ciudad-, el primer monarca que viva en el palacio y quien se ocupe de completar la decoraci\u00f3n. Sus sucesores, Carlos IV&nbsp; - a quien se debe la creaci\u00f3n del Sal\u00f3n de Espejos- y Fernando VII, a\u00f1adieron al conjunto objetos de car\u00e1cter decorativo, como relojes, muebles, ara\u00f1as o candelabros.</p><p>El edificio se inspira en los <strong>bocetos realizados por Bernini</strong> para la construcci\u00f3n del Louvre de Par\u00eds. Se articula en torno a un patio cuadrado y cuenta con una galer\u00eda y una Plaza de Armas, donde se sit\u00faa la fachada principal del palacio. Tanto la decoraci\u00f3n de cada sala, como su distribuci\u00f3n han ido cambiando a lo largo de los a\u00f1os, adapt\u00e1ndose a las necesidades de sus reales inquilinos.</p><p>Entre las m\u00e1s de 3.000 estancias del Palacio Real de Madrid destacan la <strong>Escalera Principal</strong>, dise\u00f1ada por Sabatini y con m\u00e1s de 70 pelda\u00f1os, <strong>El Sal\u00f3n del Trono</strong>, con un techo pintado por<strong> Ti\u00e9polo</strong>,&nbsp;<strong>El</strong> <strong>Sal\u00f3n de Alabarderos</strong>, el sal\u00f3n de baile que Carlos III reconvirti\u00f3 en Sala de Guardias, la <strong>Salita Gasparini</strong>, con una profusa decoraci\u00f3n a base de elementos vegetales, la <strong>Real Farmacia </strong>-que conserva armarios para las plantas medicinales, recipientes de cer\u00e1mica, frascos de la f\u00e1brica de La Granja e incluso las recetas que se dispensaban a la Familia Real-, y la <strong>Capilla Real</strong>, a la que pertenece una colecci\u00f3n de instrumentos de cuerda fabricada por el m\u00edtico <strong>Antonio Stradivari</strong>.</p></div><h3><strong>La Real Armer\u00eda y la galer\u00eda de pintura</strong></h3><div><p>La <a href=\"http://www.patrimonionacional.es/colecciones-reales/colecciones/Armer%C3%ADa\" target=\"_blank\"><strong>Real Armer\u00eda del Palacio Real</strong></a> est\u00e1 considerada como una de las colecciones m\u00e1s importantes de su g\u00e9nero. Conserva armas y armaduras pertenecientes a los reyes de Espa\u00f1a y a otros miembros de la Familia Real, desde el siglo XIII. Por su parte la galer\u00eda de pintura muestra algunos de los tesoros m\u00e1s significativos de Patrimonio Nacional, como <em>La</em> <em>Virgen con el ni\u00f1o</em> de <strong>Luis Morales,</strong> el retrato de <em>Isabel la Cat\u00f3lica</em> de <strong>Juan de Flandes</strong> y la <em>Salom\u00e9 con la cabeza del Bautista</em> de <strong>Caravaggio</strong>.&nbsp;<strong>Vel\u00e1zquez,</strong> <strong>Goya, Federico Madrazo</strong> o <strong>Sorolla</strong> son otros de los pintores representados.</p><p>&nbsp;</p><h3><strong>La Real Cocina</strong></h3><p>La <strong><a href=\"http://www.patrimonionacional.es/noticias/apertura-la-visita-publica-de-la-real-cocina\" target=\"_blank\">Real Cocina del Palacio Real</a></strong> es el ejemplo m\u00e1s destacado, conservado hasta nuestros d\u00edas,&nbsp;de cocinas hist\u00f3ricas de las residencias reales europeas, tanto por su tama\u00f1o, como por la conservaci\u00f3n del conjunto y por el inter\u00e9s y magnitud de los accesorios. El conjunto de la Real Cocina ocupa todo un lado del primer s\u00f3tano&nbsp;y conserva sus instalaciones hist\u00f3ricas, renovadas en gran parte entre 1861 y 1880 por voluntad de Isabel II y de Alfonso XII.</p><p>Este oto\u00f1o se ha abierto&nbsp;al p\u00fablico para su visita, tras haberse realizado una completa rehabilitaci\u00f3n de los espacios as\u00ed como del material expuesto. Consulta los distintos tipos de visitas y tarifas&nbsp;en la&nbsp;<strong><a href=\"https://entradas.patrimonionacional.es/es-ES/informacion-recinto/24/cocinas-palacio-real-de-madrid\">web oficial</a></strong>.</p><p>[[{\"fid\":\"145227\",\"view_mode\":\"file_thumbnail_rutas\",\"fields\":{\"format\":\"file_thumbnail_rutas\",\"field_file_image_alt_text[und][0][value]\":\"Real Cocina del Palacio Real de Madrid\",\"field_file_image_title_text[und][0][value]\":\"Real Cocina del Palacio Real de Madrid\",\"field_folder[und]\":\"3489\"},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Real Cocina del Palacio Real de Madrid\",\"title\":\"Real Cocina del Palacio Real de Madrid\",\"height\":244,\"width\":480,\"style\":\"width: 660px; height: 336px;\",\"class\":\"media-element file-file-thumbnail-rutas\"}}]]<br /><br />El Palacio Real acoge todos los mi\u00e9rcoles y s\u00e1bados (excepto julio, agosto y septiembre y&nbsp;aquellos d\u00edas en los que se celebra alg\u00fan acto oficial o&nbsp;las condiciones meteorol\u00f3gicas lo impidan) el <strong><a href=\"/cambio-de-guardia-en-el-palacio-real/\">cambio de la Guardia Real</a>&nbsp;</strong>y el primer mi\u00e9rcoles de cada mes <a href=\"/cambio-de-guardia-en-el-palacio-real/\"><strong>el relevo solemne</strong></a>.</p></div>"
+    },
+    {
+        "id": "7",
+        "title": "Catedral de la Almudena",
+        "contact": {
+            "web": "http://www.esmadrid.com/informacion-turistica/catedral-de-la-almudena",
+            "email": "informacion@catedraldelaalmudena.es",
+            "phone": "(+34) 91 542 22 00 "
+        },
+        "spatial": {
+            "latitude": 40.415005000000,
+            "longitude": -3.713539000000
+        },
+        "description": "<p><strong>La Catedral de Madrid, en el Madrid de los Austrias, tiene una corta pero intensa historia. Los primeros planos de la iglesia fueron trazados en 1879 por Francisco de Cubas con la idea de que sirviese de pante\u00f3n para la fallecida reina Mar\u00eda de la Mercedes. La primera piedra se puso en 1883 pero cuando el Papa Le\u00f3n XIII otorg\u00f3 en 1885 la bula por la que se creaba el Obispado de Madrid-Alcal\u00e1 se transform\u00f3 el proyecto de la iglesia en catedral. </strong></p><p>Cubas realiz\u00f3 entonces un nuevo proyecto, m\u00e1s ambicioso que el anterior, inspirado esta vez en el g\u00f3tico franc\u00e9s del siglo XIII, sumando elementos de las catedrales de Reims, Chartres y Le\u00f3n. Ese proyecto, que inclu\u00eda por primera vez una gran <a href=\"https://www.esmadrid.com/informacion-turistica/cripta-catedral-almudena\">cripta</a> neorrom\u00e1nica, es el que sirvi\u00f3 de base para la construcci\u00f3n definitiva. La catedral se concibi\u00f3 como un templo votivo, erigido por el pueblo, pero los donativos resultaban insuficientes y las obras se dilataron en el tiempo. En 1899 falleci\u00f3 el marqu\u00e9s de Cubas y se sucedieron en la direcci\u00f3n de las obras Miguel Olabarr\u00eda, Enrique M&ordf; Repull\u00e9s y Juan Moya.</p><p>La cripta se inaugur\u00f3 en 1911, pero las obras se suspendieron durante la Guerra Civil y se reanudaron, con escasos recursos, en 1939. A partir de entonces cambian los criterios est\u00e9ticos y no se considera adecuada una catedral g\u00f3tica por el contraste que produc\u00eda en el entorno. En 1944 la Direcci\u00f3n General de Bellas Artes convoc\u00f3 un concurso nacional para dar una nueva soluci\u00f3n arquitect\u00f3nica, que fue ganado por Fernando Chueca Goitia y Carlos Sidro. En 1950 se reiniciaron las obras, termin\u00e1ndose el claustro en 1955 y la fachada principal en 1960. La catedral pudo considerarse terminada en 1993. Fue consagrada por el papa Juan Pablo II en su cuarto viaje a Espa\u00f1a, el 15 de junio de 1993.</p><p>Tambi\u00e9n cuenta con un Museo que alberga a los Patronos de la ciudad: La Virgen de la Almudena y San Isidro Labrador y muestra un recorrido por la vida de la Iglesia a trav\u00e9s de los siete sacramentos.&nbsp;</p>"
+    },
+    {
+        "id": "8",
+        "title": "Cripta de la Catedral de la Almudena",
+        "contact": {
+            "web": "http://www.esmadrid.com/informacion-turistica/cripta-catedral-almudena",
+            "email": "criptadelaalmudena@gmail.com",
+            "phone": "(+34) 91 548 09 30"
+        },
+        "spatial": {
+            "latitude": 40.415250200000,
+            "longitude": -3.714833500000
+        },
+        "description": "<p><strong>Situado frente a la Muralla \u00c1rabe, justo debajo de la misma <a href=\"https://www.esmadrid.com/informacion-turistica/catedral-de-la-almudena\">Catedral de la Almudena</a>, se esconde este hermoso templo construido en estilo neorrom\u00e1nico, con planta de cruz latina, en el que destacan sus m\u00e1s de 400 columnas coronadas con capiteles, todos ellos diferentes, que evocan figuras b\u00edblicas y motivos de la naturaleza, as\u00ed como la figura de la Osa y el Madro\u00f1o, s\u00edmbolo de Madrid.</strong></p><p>De las mismas dimensiones que la catedral, la cripta est\u00e1 considerada como una de las mayores de toda Espa\u00f1a. La fachada goza de referencias medievales, con una triple puerta con arco de medio punto. Est\u00e1 presidida por una imagen de la Almudena, patrona de Madrid, junto al Coraz\u00f3n de Jes\u00fas y San Isidro, cobijados por una girola. Entre sus atractivos se encuentran unas espectaculares vidrieras, que iluminan las 20 capillas de las que se compone el templo.</p><p>Una de sus joyas es la imagen de Nuestra Se\u00f1ora de la Flor de Lis, posiblemente la imagen m\u00e1s antigua de la Virgen que se venera en la ciudad.</p><p><iframe allow=\"autoplay; encrypted-media\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/Qu7m7IXaLQ0?rel=0\" width=\"560\"></iframe></p>"
+    },
+    {
+        "id": "9",
+        "title": "Muralla &Aacute;rabe",
+        "contact": {
+            "web": "http://www.esmadrid.com/informacion-turistica/muralla-arabe"
+        },
+        "spatial": {
+            "latitude": 40.415094100000,
+            "longitude": -3.716086000000
+        },
+        "description": "<p><strong>La primera muralla de Madrid se construy\u00f3 durante el emirato de Muhammad ben Abd al Rahmman, entre el 850 y 866 y fue reforzada en el siglo X por el califa Abd al Rahmman III. Los sillares de la muralla se realizaron en canter\u00eda de s\u00edlex y piedra caliza, y se fueron ordenando en torno a torres de planta cuadrada dotadas de escarpes, portillos y posiblemente de almenas. </strong></p><p>Envolv\u00eda un per\u00edmetro urbano de alrededor de 4 hect\u00e1reas de superficie, constituido por el alc\u00e1zar y la almudaina, y los accesos se realizaban a trav\u00e9s de las puertas de la Vega (al oeste), de Santa Mar\u00eda (al este) y de la Sagra (al norte). Pese a haber sido declarada Monumento Nacional en 1954, ha sufrido da\u00f1os de consideraci\u00f3n en repetidas ocasiones. Sus restos m\u00e1s representativos se pueden contemplar en el parque del Emir Mohamed I, en las inmediaciones de la <strong>Cuesta de la Vega</strong>, junto al <strong>Palacio Real</strong>.</p>"
+    },
+    {
+        "id": "10",
+        "title": "Plaza de la Villa",
+        "contact": {
+            "web": "http://www.esmadrid.com/informacion-turistica/plaza-de-la-villa"
+        },
+        "spatial": {
+            "latitude": 40.415203000000,
+            "longitude": -3.710530000000
+        },
+        "description": "<p style=\"text-align: justify;\"><strong>La Plaza de la Villa es uno de los conjuntos monumentales mejor conservados de Madrid. Est\u00e1 situada en el casco hist\u00f3rico, cerca de la Puerta del Sol y ha sido la sede del Ayuntamiento de la capital. </strong></p><p style=\"text-align: justify;\">Fue uno de los principales n\u00facleos del Madrid medieval, ya que en ella tienen su origen tres peque\u00f1as calles correspondientes al primitivo trazado de la ciudad: la del Codo, la del Cord\u00f3n y la de Madrid. En su contorno se encuentran las fachadas principales de tres edificios de gran valor hist\u00f3rico-art\u00edstico, levantados en diferentes siglos. El m\u00e1s antiguo es la Casa y Torre de los Lujanes (siglo XV), construido en estilo g\u00f3tico-mud\u00e9jar, que se emplaza en la cara oriental de la plaza y que hoy es la sede de la Academia de Ciencias Morales y Pol\u00edticas. Le siguen en antig\u00fcedad la Casa de Cisneros (siglo XVI), un palacio plateresco que cierra la parte meridional del recinto, y la Casa de la Villa (siglo XVII), de estilo barroco, una de las sedes en su d\u00eda del Ayuntamiento de Madrid, ubicada en la zona occidental de la plaza.</p><p style=\"text-align: justify;\">En el siglo XV, la Plaza adopt\u00f3 su actual denominaci\u00f3n, coincidiendo con la otorgaci\u00f3n del t\u00edtulo de Noble y Leal Villa recibido por Madrid, de manos del rey Enrique IV de Castilla (1425-1474). Con motivo del tercer centenario de la muerte del marino Don \u00c1lvaro de Baz\u00e1n (1526-1588), en 1888 el Ayuntamiento decidi\u00f3 erigir un monumento en su memoria. Sin embargo, no se inaugur\u00f3 hasta el 19 de diciembre de 1891. Desde entonces figura en el centro de la plaza, y actualmente est\u00e1 rodeado por un amplio parterre floral.</p>"
+    },
+    {
+        "id": "11",
+        "title": "Torre y casa de los Lujanes",
+        "contact": {
+            "web": "http://www.esmadrid.com/informacion-turistica/torre-y-casa-de-los-lujanes",
+            "email": "biblioteca@racmyp.es",
+            "phone": "(+34) 91 758 15 05"
+        },
+        "spatial": {
+            "latitude": 40.415235500000,
+            "longitude": -3.710213500000
+        },
+        "description": "<p><strong>Situada en el barrio de los Austrias, es una de las casas m\u00e1s antiguas que se conservan en Madrid y en ella residieron durante varios siglos distintas generaciones del linaje de los Luj\u00e1n. Se cree que fue construida a lo largo del siglo XV, aunque en realidad, tanto la casa se\u00f1orial como la torre, datan de \u00e9pocas diferentes. </strong></p><p>La torre es la construcci\u00f3n m\u00e1s antigua del conjunto, pues presenta incluso vestigios arquitect\u00f3nicos g\u00f3ticos y medievales de inspiraci\u00f3n \u00e1rabe, como el arco de herradura que da a la calle del Codo. La casa se\u00f1orial fue mandada construir por \u00c1lvaro de Luj\u00e1n en 1494, es de planta irregular, organizada en torno a un patio central y presenta decoraciones similares a las de la torre, destacando su portada g\u00f3tica y sus blasones her\u00e1ldicos.</p><p><span>Actualmente es la sede de la <strong>Real Academia de Ciencias Morales y Pol\u00edticas.</strong></span></p>"
+    },
+    {
+        "id": "12",
+        "title": "Mercado de San Miguel",
+        "contact": {
+            "web": "http://www.esmadrid.com/informacion-turistica/torre-y-casa-de-los-lujanes",
+            "email": "biblioteca@racmyp.es",
+            "phone": "(+34) 91 758 15 05"
+        },
+        "spatial": {
+            "latitude": 40.4154038,
+            "longitude": -3.7092609
+        },
+        "description": "Junto al Mercado de San Miguel, templo para gourmets, surge esta calle repleta de mesones."
+    },
+    {
+        "id": "13",
+        "title": "Arco de Cuchilleros",
+        "contact": {
+            "web": "http://www.esmadrid.com/informacion-turistica/torre-y-casa-de-los-lujanes",
+            "email": "biblioteca@racmyp.es",
+            "phone": "(+34) 91 758 15 05"
+        },
+        "spatial": {
+            "latitude": 40.4148264,
+            "longitude": -3.7081388
+        },
+        "description": "El Arco de Cuchilleros da acceso a la Plaza Mayor."
+    },
+    {
+        "id": "14",
+        "title": "Plaza Mayor",
+        "contact": {
+            "web": "http://www.esmadrid.com/informacion-turistica/plaza-mayor-madrid"
+        },
+        "spatial": {
+            "latitude": 40.415371,
+            "longitude": -3.706675
+        },
+        "description": "<div><p><strong>Esta plaza porticada es&nbsp;el coraz\u00f3n del&nbsp;</strong><a href=\"/barrios-de-madrid/#tabs-0\"><strong>Madrid de los Austrias</strong></a><strong>, el casco viejo de la ciudad y el punto de partida ideal para una visita a uno de los barrios con m\u00e1s encanto.</strong></p><p>Antes de que Madrid fuese una capital de grandes avenidas y bulevares, su mapa lo conformaban peque\u00f1as calles y pasadizos, que hoy nos trasladan a tiempos de espadachines y p\u00edcaros.</p><p>La Plaza Mayor empez\u00f3 a cimentarse sobre el solar de la antigua Plaza del Arrabal, donde se encontraba el mercado m\u00e1s popular de la villa a finales del siglo XV, cuando se traslad\u00f3 la corte de Felipe II a Madrid. En 1617 se encarga al arquitecto <strong>Juan G\u00f3mez de Mora</strong> establecer uniformidad a los edificios de este lugar, que durante siglos ha acogido festejos populares, corridas de toros, beatificaciones, coronaciones y tambi\u00e9n alg\u00fan auto de fe.</p></div><p><strong>La Casa de la Panader\u00eda </strong></p><div><p>La Casa de la Panader\u00eda fue construida por Diego Sillero&nbsp;alrededor de&nbsp;1590, pero de este edificio s\u00f3lo se conserva el s\u00f3tano y la planta baja. No obstante es el modelo que copian el resto de edificios de la plaza. Entre las numerosas funciones que ha tenido destacan el de Tahona Principal de la Villa, que fijaba el precio del pan para que los m\u00e1s necesitados pudieran adquirirlo, aposentos reales, Real Academia de Bellas Artes de San Fernando y Academia de la Historia. En la actualidad es la sede del <strong><a href=\"/informacion-turistica/centro-de-turismo-plaza-mayor/\">Centro de Turismo de Madrid</a>.</strong> La decoraci\u00f3n que podemos contemplar en la fachada no ha sido igual a lo largo de los a\u00f1os, debido a las reformas y rehabilitaciones. Las pinturas murales que cubren hoy el edificio son obra de Carlos Franco, en la que se distinguen figuras mitol\u00f3gicas relacionadas con la historia de Madrid como la diosa Cibeles.</p><p><strong>El Arco de Cuchilleros</strong></p></div><div><p>Los incendios, sin embargo, han cambiado la fisionom\u00eda de la plaza en varias ocasiones. El m\u00e1s devastador fue el de 1790, que permiti\u00f3 la reconstrucci\u00f3n llevada a cabo por el arquitecto <strong>Juan de Villanueva</strong>, quien redujo en dos alturas las fachadas, cerr\u00f3 la plaza en sus esquinas y levant\u00f3 nueve arcos de acceso. Dada su monumentalidad, el m\u00e1s conocido de todos es el de Cuchilleros, cuya escalinata salva un acusado desnivel. Los pintorescos edificios de esta calle llaman la atenci\u00f3n por su elevada altura e inclinaci\u00f3n de las fachadas, a modo de contrafuertes. Su nombre se debe a que aqu\u00ed se ubicaban los talleres de cuchilleros que prove\u00edan de instrumental a los carniceros de la Plaza Mayor, donde se encuentra la Casa de la Carnicer\u00eda, que fue el dep\u00f3sito general de carnes.</p><p><strong>La estatua de Felipe III</strong></p></div><div><p>Esta escultura ecuestre es una de las obras de arte de mayor valor ubicada en las calles de Madrid. Dise\u00f1ada por&nbsp;<strong>Giambologna</strong> y terminada por Pietro Tacca en 1616, durante siglos custodi\u00f3 el acceso a la Casa de Campo, pero la reina Isabel II se la prest\u00f3 en 1848 a la ciudad, que decidi\u00f3 colocarla en la Plaza Mayor. S\u00f3lo durante las dos rep\u00fablicas la escultura ha vuelto a emigrar de esta plaza, tal vez la m\u00e1s emblem\u00e1tica de Madrid.&nbsp;</p></div>"
+    },
+    {
+        "id": "15",
+        "title": "Casa de la Panader&iacute;a",
+        "contact": {
+            "web": "http://www.esmadrid.com/informacion-turistica/casa-panaderia",
+            "phone": "(+34)  91 454 44 10"
+        },
+        "spatial": {
+            "latitude": 40.415893544463,
+            "longitude": -3.707413673401
+        },
+        "description": "<p><strong>Por encargo de Felipe III, el arquitecto Juan G\u00f3mez de Mora realiz\u00f3, entre 1617 y 1619, una transformaci\u00f3n profunda de la vieja plaza del Arrabal, convirti\u00e9ndola en lo que es hoy la Plaza Mayor y dot\u00e1ndola de sus principales caracter\u00edsticas: una plaza rectangular, homog\u00e9nea en la altura de su caser\u00edo e ideal como espacio cortesano de representaci\u00f3n. </strong></p><p>En el centro del lado norte, G\u00f3mez de Mora integr\u00f3 el edificio de la Casa de la Panader\u00eda, modificando tan s\u00f3lo su planta baja, si bien su altura era inferior a la del resto del caser\u00edo que conformaba la plaza.</p><p>En cuanto al edificio, era una composici\u00f3n sim\u00e9trica de cuatro alturas y planta baja porticada, con el \u00faltimo piso rematado&nbsp;en forma de \u00e1tico y los laterales coronados por torres angulares. El incendio de agosto de 1672, el segundo que se produc\u00eda en la plaza, destruy\u00f3 por completo la Casa de la Panader\u00eda, por lo que se encarg\u00f3 al arquitecto Tom\u00e1s Rom\u00e1n la realizaci\u00f3n del proyecto de reconstrucci\u00f3n y a los pintores Claudio Coello y Jos\u00e9 Jim\u00e9nez Donoso la decoraci\u00f3n interior y los frescos de la fachada.</p><p>Otro incendio ocurrido en el verano de 1790 arras\u00f3 tres cuartas partes de la plaza, aunque se pudo salvar la Casa de la Panader\u00eda, siendo su altura y sus trazas arquitect\u00f3nicas las que vendr\u00edan a ordenar el resto del caser\u00edo de la plaza en las obras de reconstrucci\u00f3n que al a\u00f1o siguiente emprendi\u00f3 Juan de Villanueva.</p><p>Hoy alberga un punto de informaci\u00f3n tur\u00edstica del Ayuntamiento de Madrid.</p>"
+    },
+    {
+        "id": "16",
+        "title": "Casa de la Carnicer&iacute;a",
+        "contact": {
+            "web": "http://www.esmadrid.com/informacion-turistica/casa-de-la-carniceria"
+        },
+        "spatial": {
+            "latitude": 40.415730100000,
+            "longitude": -3.707494400000
+        },
+        "description": "<p><strong>Situada en el lado sur de la Plaza Mayor de Madrid, la Casa de la Carnicer\u00eda es un edificio de cuatro alturas rematado en forma de \u00e1tico, con la planta baja porticada y los laterales coronados por torres angulares. Se desconoce la fecha exacta de la construcci\u00f3n del edificio actual, aunque se cree que fue reconstruido completamente tras el primer incendio de la Plaza Mayor en 1631. Para su reconstrucci\u00f3n, se sigui\u00f3 el estilo de la Casa de la Panader\u00eda, que est\u00e1 situada justo enfrente. </strong></p><p>En sus inicios, alberg\u00f3 el dep\u00f3sito general de carnes desde el que se abastec\u00eda a los mercados de la Villa, de ah\u00ed el nombre del edificio. A finales del siglo XIX, se convirti\u00f3 en la sede de la Tenencia de Alcald\u00eda y de la Casa de Socorro del distrito de la Audiencia. Desde principios del siglo XX, se convirti\u00f3 en tercera Casa Consitorial, albergando distintas oficinas del Ayuntamiento.</p>"
+    },
+    {
+        "id": "17",
+        "title": "Plaza de las Provincias",
+        "contact": {
+            "web": "http://www.esmadrid.com/informacion-turistica/fuente-de-orfeo"
+        },
+        "category": {
+            "category_id": 7173,
+            "category_name": "Edificios y monumentos"
+        },
+        "spatial": {
+            "latitude": 40.414913700000,
+            "longitude": -3.706133900000
+        },
+        "description": "Felipe IV ordenó en 1629 la construcción del Palacio de Santa Cruz para albergar las dependencias de la cárcel de la Corte, hoy Ministerio de Asuntos Exteriores"
+    }
+]

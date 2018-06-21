@@ -1,0 +1,267 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Apple MapKit JS Tutorial</title>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        <!-- Flexbox Grid CSS -->
+		<link rel="stylesheet" href="css/flexboxgrid.min.css">
+        <link rel="stylesheet" href="css/webapp.css">
+        <link rel="stylesheet" href="css/sidenav.css">
+        <link rel="stylesheet" href="css/filter.css">
+        <link rel="stylesheet" href="css/information.css">
+
+        <!-- Twitter Cards -->
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@fitomad" />
+        <meta name="twitter:creator" content="@fitomad" />
+        <meta name="twitter:title" content="MapKit JS - Tutorial" />
+        <meta name="twitter:description" content="Website que acompaña al artículo publicado en Apple Coding sobre MapKit JS" />
+        <meta name="twitter:image" content="http://apple-mapkitjs.desappstre.com/images/twitter-art.png" />
+        <meta name="twitter:image:src" content="http://apple-mapkitjs.desappstre.com/images/twitter-art.png" />
+        <meta name="twitter:url" content="http://apple-mapkitjs.desappstre.com" />
+        <!-- Open Graph -->
+        <meta property="og:title" content="MapKit JS - Tutorial" />
+        <meta property="og:description" content="Website que acompaña al artículo publicado en Apple Coding sobre MapKit JS" />
+        <meta property="og:url" content="http://apple-mapkitjs.desappstre.com/" />
+        <meta property="og:locale" content="en_US" />
+        <!-- imagen de 1200x630 pixels -->
+        <meta property="og:image" content="http://apple-mapkitjs.desappstre.com/images/twitter-art.png" />
+        <meta property="og:type" content="website" />
+        <meta property="og:site_name" content="MapKit JS - Tutorial" />
+    </head>
+
+    <body>
+        <!-- Background -->
+        <div id="intro">
+            <div class="row">
+                <div class="col-xs-offset-10 col-xs-2">
+                    <div class="box separator-xl">
+                        <img src="images/menu.svg" width="50px" height="50px" alt="" onclick="openNavBar()" />
+                    </div>
+                </div>
+            </div>
+            <div class="row middle-xs">
+                <div class="col-xs-12">
+                    <div class="box">
+                        <h1 class="center">Madrid City Guide</h1>
+                        <h2 class="center">City walks to example MapKit JS</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="box separator-xl">&nbsp;</div>
+                </div>
+            </div>
+        </div>
+        <!-- Filter -->
+        <div class="filterLayer"> 
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="box separator-xxl">&nbsp;</div>
+                </div>
+            </div>
+            <span id="spanName">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="box center">
+                            <h3>Buscar un sitio</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="box separator-xl">&nbsp;</div>
+                    </div>
+                </div>
+                <div class="row around-xs">
+                    <div class="col-xs-8">
+                        <div class="box textfield">
+                            <input type="text" name="placeName" id="placeName" placeholder="¿Dónde quieres ir?">
+                        </div>
+                    </div>
+                </div>
+            </span>
+            <span id="spanRoute">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="box center">
+                            <h3>Calcula tu Ruta</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="box separator-xl">&nbsp;</div>
+                    </div>
+                </div>
+                <div class="row around-xs">
+                    <div class="col-xs-5">
+                        <div class="box textfield">
+                            <input type="text" name="placeOrigin" id="placeOrigin" placeholder="Mi viaje empieza...">
+                        </div>
+                    </div>
+                    <div class="col-xs-5">
+                        <div class="box textfield">
+                            <input type="text" name="placeDestination" id="placeDestination" placeholder="...y termina...">
+                        </div>
+                    </div>
+                </div>
+                <div class="row around-xs">
+                    <div class="col-xs-8">
+                            <input type="checkbox" name="checkVariasRutas" id="checkVariasRutas"><span class="text">Varias rutas</span>
+                    </div>
+                </div>
+            </span>
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="box separator-xl">&nbsp;</div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-offset-4 col-xs-2">
+                    <div class="box center">
+                        <p class="text"><input type="radio" name="radioRouteSearch" id="radioSearch" checked>&nbsp;Localización</p>
+                    </div>
+                </div>
+                <div class="col-xs-2">
+                    <div class="box center">
+                        <p class="text"><input type="radio" name="radioRouteSearch" id="radioRoute">&nbsp;Ruta</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Apple Maps -->
+        <div id="map" style="width: 100%; height: 100%;">
+            <!-- Información de las Annotations --> 
+            <div id="information" class="informationContainerGeneral informationContainerSpecific diffused-shadow">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="box right">
+                            <a href="javascript:void(0)" class="venueClose" onclick="closeDetailView()">&times;</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="box">
+                            <p class="venueTitle" id="venueTitle"></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="box">
+                            <p class="venueDescription" id="venueDescription"></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="box">
+                            <hr />
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-4">
+                        <div class="box center">
+                            <a href="#" target="_blank" id="linkVenuePhone"><img src="images/phone.svg" class="venueButton" /></a>
+                        </div>
+                    </div>
+                    <div class="col-xs-4">
+                        <div class="box center">
+                            <a href="#" target="_blank" id="linkVenueWebsite"><img src="images/web.svg" class="venueButton" /></a>
+                        </div>
+                    </div>
+                    <div class="col-xs-4">
+                        <div class="box center">
+                            <a href="#" target="_blank" id="linkVenueMail"><img src="images/mail.svg" class="venueButton" /></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Información de Ruta -->
+            <div id="routePlan" class="informationContainerGeneral informationContainerSpecific diffused-shadow">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="box right">
+                            <a href="javascript:void(0)" class="venueClose" onclick="closeRoutePlanView()">&times;</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="box">
+                            <p class="routeTitle" id="routeID"></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-6">
+                        <div class="box center">
+                            <p class="routeInformation" id="routeDistance"></p>
+                            <p><small>DISTANCIA</small></p>
+                        </div>
+                    </div>
+                    <div class="col-xs-6">
+                        <div class="box center">
+                            <p class="routeInformation" id="routeTravelTime"></p>
+                            <p><small>TIEMPO ESTIMADO</small></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="box" id="routePlanContent">
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Sidenav Menu -->
+        <div id="Sidenav" class="sidenav">
+            <span style="display: inline;"><a href="javascript:void(0)" class="searchbtn" onclick="presentSearch()">&#8674;</a></span>
+            <span style="display: inline;"><a href="javascript:void(0)" class="closebtn" onclick="closeNavBar()">&times;</a></span>
+            
+            <span class="title">Lugares de Interés</span>
+            <a href="#" id="buttonCervantes">Cervantes</a>
+            <a href="#" id="buttonEnDetalle">En Detalle</a>
+            <span class="title">Rutas</span>
+            <a href="#" id="buttonAustrias">Madrid de los Austrias</a>
+            <span class="title">Contact</span>
+            <div class="row">
+                <div class="col-xs-4">
+                    <div class="box center">
+                        <a href="https://github.com/fitomad" target="_blank"><img src="images/contact/github.svg"class="icon" /></a>
+                    </div>
+                </div>
+                <div class="col-xs-4">
+                    <div class="box center">
+                        <a href="https://twitter.com/fitomad" target="_blank"><img src="images/contact/twitter.svg"class="icon" /></a>
+                    </div>
+                </div>
+                <div class="col-xs-4">
+                    <div class="box center">
+                        <a href="http://www.linkedin.com/in/adolfo-vera" target="_blank"><img src="images/contact/linkedin.svg"class="icon" /></a>
+                    </div>
+                </div>
+            </div>
+          </div>
+    </body>
+
+    <!-- JQuery -->
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <!-- Script Side Navigation Bar -->
+    <script src="js/sidenav.js"></script>
+     <!-- Script Side Navigation Bar -->
+     <script src="js/detail-view.js"></script>
+    <!-- Script MapKit JS -->
+    <script src="https://cdn.apple-mapkit.com/mk/5.0.x/mapkit.js"></script>
+    <!-- Script Custom MapKit Functions -->
+    <script src="js/webapp.js"></script>
+</html>

@@ -1,0 +1,87 @@
+
+.filterLayer
+{
+    height: 100%;
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+}
+
+.filterLayer input[type=text]
+{
+    padding: 8pt;
+
+    width: 100%;
+
+    text-align: center;
+
+    color: #bfbfbf;
+
+    border-radius: 16px;
+
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 3.0em;
+    font-weight: 800;
+
+    border: 0px;
+}
+
+.filterLayer .textfield
+{
+    border-bottom: 0px #ffffff solid;
+}
+
+::placeholder { 
+    color: #ffffff;
+    opacity: 1; /* Firefox */
+    
+}
+
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+    outline: none;
+}
+
+.text
+{
+    color:  #ffffff;
+    text-shadow: 0px 0px 25px #f9f9f9;
+
+    font-size: 1.5em;
+    font-weight: 400;
+}
+
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait) 
+{ 
+    .text { font-size: 1.0em; }
+    .filterLayer input[type=text] { padding: 4pt; font-size: 1.5em; font-weight: 400; }
+}
+
+/* iPhone 6, 7, & 8 in portrait & landscape */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) 
+{  
+    .text { font-size: 1.0em; }
+    .filterLayer input[type=text] { padding: 4pt; font-size: 1.5em; font-weight: 400; }
+}
+
+/* iPhone 6, 7, & 8 Plus in portrait & landscape */
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait) 
+{
+    .text { font-size: 1.0em; }
+    .filterLayer input[type=text] { padding: 4pt; font-size: 1.5em; font-weight: 400; }
+}
+
+

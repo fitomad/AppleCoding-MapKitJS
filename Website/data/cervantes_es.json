@@ -1,0 +1,82 @@
+[
+    {
+        "id" : 1,
+        "title" : "Casa Alberto",
+        "description" : "Esta taberna castiza, abierta en 1827, se encuentra en el mismo edificio en el que Miguel de Cervantes vivió y escribió Los trabajos de Persiles y Sigismunda y la segunda parte de El Quijote. Además de ofrecer una tradicional cocina madrileña, sus salones guardan recuerdos de la vida literaria del barrio. Años más tarde Cervantes viviría en el número 2 de la calle de los Francos, calle que ahora lleva su nombre.",
+        "spatial" : {
+            "latitude" : 40.4138134,
+            "longitude" : -3.7001154,
+            "address" : "Huertas, 18"
+        }
+    },
+    {
+        "id" : 2,
+        "title" : "Imprenta de Juan Cuesta",
+        "description" : "En este edificio se imprimió en 1605 la primera edición de El Quijote, cuyo título completo es El ingenioso hidalgo Don Quijote de La Mancha. Hoy es la sede de la Sociedad Cervantina y acoge una reproducción exacta de la imprenta de tipos móviles que vio nacer la obra cumbre de la literatura española.",
+        "spatial" : {
+            "latitude" : 40.4113914,
+            "longitude" : -3.6969461,
+            "address" : "Atocha, 87"
+        }
+    },
+    {
+        "id" : 3,
+        "title" : "Corrala del Príncipe",
+        "description" : "El Teatro Español se encuentra en el mismo lugar donde estuvo el Corral del Príncipe, uno de los seis corrales de comedias que llegó a haber en el Madrid del Siglo de Oro. De martes a viernes por la mañana se organizan visitas guiadas para conocerlo por dentro. Aunque las obras de Cervantes nunca cosecharon el éxito de las de Lope de Vega, el teatro fue su gran vocación.",
+        "spatial" : {
+            "latitude" : 40.4148236,
+            "longitude" : -3.7001521,
+            "address" : "Príncipe, 25"
+        }
+    },
+    {
+        "id" : 4,
+        "title" : "Monasterio de las Trinitarias Descalzas",
+        "description" : "En 1580 los monjes trinitarios reunieron el rescate necesario para liberar a Cervantes, cautivo en Argel desde hacía un lustro. El “Príncipe de los Ingenios” estaría siempre agradecido a la orden y expresó su deseo de ser enterrado en la iglesia del convento de las Trinitarias Descalzas de Madrid, donde ahora se han encontrado sus restos mortales junto a los de su esposa, Catalina de Salazar.",
+        "spatial" : {
+            "latitude" : 40.4136494,
+            "longitude" : -3.6974025,
+            "address" : "Lope de Vega, 18"
+        }
+    },
+    {
+        "id" : 5,
+        "title" : "Instituto Cervantes",
+        "description" : "Dedicado a la promoción y enseñanza del español, tiene su sede central en el edificio de las Cariátides, el antiguo Banco Español de Río de la Plata, una obra de Antonio Palacios que hoy acoge exposiciones, conferencias y otras actividades culturales.",
+        "spatial" : {
+            "latitude" : 40.4193084,
+            "longitude" : -3.6953598,
+            "address" : "Alcalá, 49"
+        }
+    },
+    {
+        "id" : 6,
+        "title" : "Biblioteca Nacional",
+        "description" : "Además de un ejemplar de la primera edición de El Quijote, conserva todo tipo de curiosidades relacionadas con el personaje. Su museo propone un recorrido por la historia de la biblioteca y el arte de la encuadernación.",
+        "spatial" : {
+            "latitude" : 40.4229332,
+            "longitude" : -3.6908742,
+            "address" : "Paseo de Recoletos, 20"
+        }
+    },
+    {
+        "id" : 7,
+        "title" : " Estatua de Cervantes",
+        "description" : "Debido a unas obras de restauración realizadas en 2009, bajo el pedestal de esta estatua de 1834, obra de Juan Vancell, se encontró una cápsula del tiempo de la que no se tenía noticia. El tesoro eran 41 documentos, entre ellos diversas ediciones del Quijote y una biografía de Cervantes escrita en el siglo XIX.",
+        "spatial" : {
+            "latitude" : 40.4153767,
+            "longitude" : -3.694852,
+            "address" : "Plaza de las Cortes"
+        }
+    },
+    {
+        "id" : 8,
+        "title" : "Monumento a Cervantes",
+        "description" : "La fuente de Cervantes fue promovida por Alfonso XIII en 1916 con motivo del tercer centenario de la publicación de la segunda parte de El Quijote y terminada en la década de 1960.",
+        "spatial" : {
+            "latitude" : 40.423206,
+            "longitude" :  -3.712529,
+            "address" : "Plaza de España"
+        }
+    }
+]
