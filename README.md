@@ -1,6 +1,6 @@
 # AppleCoding-MapKitJS
 
-Sitio web que acompaña al artículo de Apple Coding sobre MapKit JS
+Sitio web que acompaña al artículo de Apple Coding sobre MapKit JS. **También podeís ver la web ya desplegada en [este enlace](http://apple-mapkitjs.desappstre.com/)**
 
 ![Webshot](https://github.com/fitomad/AppleCoding-MapKitJS/blob/master/Webshots/portada.png)
 
